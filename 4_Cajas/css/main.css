@@ -1,0 +1,21 @@
+
+#caja1{
+	padding: 120px 60px 30.5px 60px;
+	background-color:red;
+
+}
+#caja2{
+	padding: 20px 10px;
+	background-color:blue;
+
+}
+#caja3{
+	padding: 40px 20px 70px 100px;
+	background-color:#688A08;
+}
+#caja4{
+	padding: 5px;
+	border: 5px dashed green;
+	text-align: center;
+	background-color:white;
+}
